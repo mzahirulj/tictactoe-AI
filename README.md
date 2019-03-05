@@ -1,4 +1,8 @@
 # Tic Tac Toe Spel mit artificial intelligenz
+
+ 
+  <img src="https://github.com/mzahirulj/tictactoe-AI/blob/master/Resources/Bild1.png" width="350" align = "center"/>
+
 Ich werde versuchen alle Schritte nacheinander zu Beschreiben. Ich habe 4 Verschiedene Ebene (Art)
 entwickelt damit alle werden gerne Tic Tac Toe Spielen. Es gibt auch Möglichkeit Hintergrund Farbe
 leicht zu ändern. Man kann mit dezimal Zahlen Farbcode Eingeben oder direkt Farbe auswählen. Die
@@ -57,7 +61,8 @@ Spieler als Max und Gegner als Min bezeichnet. Tic Tac Toe Perspektiv, Es vertei
 Blätter. Dann wird Suchbaum Verfahren verwendet. Es wird oben nach Unten und Links nach Recht
 bewegt. Der Algorithmus versucht immer die Spiel Verläufe zu Minimieren. Bilder Sprechen mehr als
 Thousand Wörter.
-Abb:Alpha Beta Prunnig2
+
+
   ##  Minimax
 Minimax und Alpha Beta Prunning hat einzige Unterschied, was bei mir einfällt. Das Spiel Verlauf
 Minimierung Prozess. Deswegen Minimax hat gesamt 255.168 
@@ -67,7 +72,7 @@ minimaler Wert für Gegner raus, damit blockiert die Gegner Gewinn. Für manche 
 Sprache es ist aufwand schneller zu Arbeit.
 
 
-Abb.: Suchbaum mit Minimax Algorithmus
+
 
   ##  Main Programm
 Tic Tac Toe Spiel wurde mit LabVIEW Programm Spiel gebracht. Es war sehr toll graphische
@@ -75,20 +80,16 @@ Oberfläche zu Programmieren. Blockdiagramm sind sehr sichtbar. Erste Augenblick
 meisten Sache verstehen.
 Programm Hierarchie
 
-Abb: TTT (Tic Tac Toe) Program Hierarchies
+
 
   ##  Front panel
 Graphische Öberfläche in LabVIEW Program.
-Abb: Haupt Front panel
-Abb: Spieler Name Eingabe Abb: Begrüßung Seite
 
-Abb: Spiel Info
+  *.will be linked.*
   ##  Blockdiagramm
 Alle Blockdiagramme sind wichtig. Trotzdem hier wurde nur sehr wichtigste Blockdiagramme
 dargestellt.
-Abb.: Minimax Algorithmus Blockdiagramm
-Abb.: Bewertung Sub VI Blockdiagramm
-Abb.: Ergebnis von Datei ablesen und Schreiben
+
 ##  Spiel Methoden
 Bei diesem Spiel gibt 4 verschiedene Art bzw. Ebene Tic Tac Toe zu Spielen.
 
