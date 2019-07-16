@@ -1,8 +1,2 @@
-# VIs
-# Projet file
-
-Es braucht ein txt datei ,die Ergebnisse zu Speichern . 
-Es wird auch während des Programm zugreifen. Bitte die txt datei lieber Projekt Verzeichnis  zu erstellen. 
-
-**ohne txt Datei wird das Program gar könnte ihr nicht laufen bringen.**
-**Alle bilder bitte auch Projekt verzeichnis zusammen packen.**
+##  Befindet alle mögliche Bilder
+Die Bilder sind bisschen Alt. 
